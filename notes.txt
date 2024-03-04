@@ -1,1 +1,2 @@
 note 1: wire up basic config loader
+note 2: add placeholder notes
