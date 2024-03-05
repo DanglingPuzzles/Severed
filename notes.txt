@@ -2,3 +2,4 @@ note 1: wire up basic config loader
 note 2: add placeholder notes
 note 3: tidy up notes file
 note 4: edit intro paragraph
+note 5: rename scratch file
