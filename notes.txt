@@ -3,3 +3,4 @@ note 2: add placeholder notes
 note 3: tidy up notes file
 note 4: edit intro paragraph
 note 5: rename scratch file
+note 6: move notes into folder
