@@ -5,3 +5,4 @@ note 4: edit intro paragraph
 note 5: rename scratch file
 note 6: move notes into folder
 note 7: adjust spacing in changelog
+note 8: refine changelog format
