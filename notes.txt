@@ -6,3 +6,4 @@ note 5: rename scratch file
 note 6: move notes into folder
 note 7: adjust spacing in changelog
 note 8: refine changelog format
+note 9: keep draft for later
