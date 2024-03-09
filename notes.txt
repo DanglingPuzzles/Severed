@@ -9,3 +9,4 @@ note 8: refine changelog format
 note 9: keep draft for later
 note 10: link notes to readme
 note 11: improve notes layout
+note 12: group related notes
