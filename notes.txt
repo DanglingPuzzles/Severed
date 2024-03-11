@@ -13,3 +13,4 @@ note 12: group related notes
 note 13: hide nothing important
 note 14: tweak wording in intro
 note 15: handle empty lines
+note 16: organize sections
