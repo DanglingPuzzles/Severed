@@ -15,3 +15,4 @@ note 14: tweak wording in intro
 note 15: handle empty lines
 note 16: organize sections
 note 17: update changelog
+note 18: save progress
