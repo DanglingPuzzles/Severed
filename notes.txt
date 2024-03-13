@@ -17,3 +17,4 @@ note 16: organize sections
 note 17: update changelog
 note 18: save progress
 note 19: expand todo list
+note 20: polish wording
