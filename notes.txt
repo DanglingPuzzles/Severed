@@ -20,3 +20,4 @@ note 19: expand todo list
 note 20: polish wording
 note 21: archive old draft text
 note 22: prune old notes
+note 23: extract helper text
