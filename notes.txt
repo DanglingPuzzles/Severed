@@ -23,3 +23,4 @@ note 22: prune old notes
 note 23: extract helper text
 note 24: reword todo items
 note 25: clean up whitespace
+note 26: log a few ideas
