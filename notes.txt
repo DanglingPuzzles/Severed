@@ -25,3 +25,4 @@ note 24: reword todo items
 note 25: clean up whitespace
 note 26: log a few ideas
 note 27: include more examples
+note 28: punctuation fixes
